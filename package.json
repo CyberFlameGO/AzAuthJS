@@ -18,7 +18,7 @@
     "lint": "eslint src/**/*.ts"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "camelcase-keys": "^6.2.2"
   },
   "devDependencies": {
